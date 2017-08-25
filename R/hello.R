@@ -13,4 +13,6 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hello()
+hello <- function() {
+  print("Hello, world!")
+  }

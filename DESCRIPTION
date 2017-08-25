@@ -1,0 +1,11 @@
+Package: Example
+Type: Package
+Title: visualize bike count data
+Version: 0.1.0
+Author: EM Muecke <emuecke@pdx.edu>
+Maintainer: The package maintainer <emuecke@pdx.edu>
+Description: Visulization of bike counts data from bridges in Portland, OR.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Import: ggplot2

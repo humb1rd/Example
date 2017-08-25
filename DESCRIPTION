@@ -8,4 +8,6 @@ Description: Visulization of bike counts data from bridges in Portland, OR.
 License: GPL
 Encoding: UTF-8
 LazyData: true
-Import: ggplot2
+Import: ggplot2,
+        readxl
+RoxygenNote: 6.0.1
